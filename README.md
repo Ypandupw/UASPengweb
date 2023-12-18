@@ -10,5 +10,5 @@ Untuk Mengubah DATA
 - Masukan perubahan DATA dengan sesuai
 - Tekan "Submit"
 
-- Untuk Menghapus DATA
+Untuk Menghapus DATA
 - Tekan Delete
